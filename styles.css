@@ -6,9 +6,11 @@
 
 .fondo{
     border-color: black;    
+    z-index: -1;
 }
 
 .fondo_pattern{
     width: 1920px;
-    height: 450px;
+    height: 460px;
+    z-index: -1;
 }
